@@ -1,4 +1,4 @@
-FROM bitnami/moodle:3.8.0
+FROM bitnami/moodle:3.8.1
 
 ARG CR_VERSION=v3.7.4+
 ARG CR_BEHAVRIOUR_VERSION=v1.3.6
